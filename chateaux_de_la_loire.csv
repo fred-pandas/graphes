@@ -1,0 +1,15 @@
+sommet u;sommet v;poids
+N;V;32
+N;R;21
+V;T;16
+R;T;24
+T;B;63
+T;A;25
+R;A;58
+R;E;53
+A;E;12
+A;B;35
+E;B;41
+B;D;19
+E;C;38
+C;D;18
